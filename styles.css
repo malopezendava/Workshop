@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 360px;
+}
+
+.container{
+   
+}
+
+.sliderCardHeader {
+    display: flex;
+    width: 310px;
+    height: 125px;
+    background-color: #025ab4;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.imgSlideCard {
+    height: 98%;
+    width: 30%;
+}
+
+.titleSlideCard{
+    margin: 0px;
+    color: white;
+    font-weight: 400;
+}
+
+.paragraphSlideCard {
+    margin: 0;
+    color: white;
+    font-weight: 200;
+}
+
+.btnSlideCard{
+    display: inline-block;
+    background-color: #ffc33a ;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #414b5a;
+    font-weight: 500;
+}
